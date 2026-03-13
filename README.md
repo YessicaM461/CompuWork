@@ -40,4 +40,5 @@ Desarrollado para la asignatura de Programación Orientada a Objetos en la insti
 
 ## 👥 Actividad entregada por: 
 
-- Julián Isaza
+- Lisa Larrea
+- Yessica Mazo
